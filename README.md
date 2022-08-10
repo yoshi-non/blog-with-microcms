@@ -4,6 +4,14 @@
 
 npm run dev
 
+## ビルド
+
+npm run build
+
+## ビルド後のサーバ起動
+
+npm run start
+
 ## Next.jsとmicroCMSを繋げるSDKをインストール
 
 npm i microcms-js-sdk
